@@ -1,0 +1,9 @@
+{
+	"name": "gowthADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45e8f8eb-06c2-406c-bc72-42bb78eb2bee",
+		"tenantId": "7f96054d-266b-4c5f-93a6-05bb9569e2c7"
+	}
+}
